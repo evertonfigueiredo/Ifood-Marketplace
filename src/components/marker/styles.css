@@ -1,0 +1,21 @@
+.marker{
+    position: absolute;
+    top: -50px;
+}
+
+.img-marker {
+  width: 60px;
+  padding: 10px;
+  position: absolute;
+  background-color: #fff;
+  top: -10px;
+  border-radius: 100%;
+  transform: translate(-50%, -50%);
+}
+
+.bg-marker {
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+

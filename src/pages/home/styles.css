@@ -1,0 +1,19 @@
+.restaurante-list{
+    padding: 15px;
+    white-space: nowrap;
+    overflow-x: auto;
+    width: 100%;
+    padding-bottom: 20px;
+    position: absolute;
+    z-index: 999;
+    background: linear-gradient(180deg, #ffffff 70%, rgba(255,255,255,0) 100%);
+}
+
+.restaurante-list-container{
+    height: 300px;
+    margin-bottom: 0;
+    top: 91px;
+    left: 0;
+    right: 0;
+    padding: 0;
+}
